@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\GAMING\source\repos\Server\Server\FunctuonsImplementation.h(168,9): warning C4101: 'buffSend': unreferenced local variable
+C:\Users\GAMING\source\repos\Server\Server\FunctuonsImplementation.h(1145,2): error C2065: 'nRet': undeclared identifier
+C:\Users\GAMING\source\repos\Server\Server\FunctuonsImplementation.h(1145,86): error C2039: 'SocketAccept': is not a member of '_PER_IO_CONTEXT'
+C:\Users\GAMING\source\repos\Server\Server\CustomDataStructs.h(22): message : see declaration of '_PER_IO_CONTEXT'
+C:\Users\GAMING\source\repos\Server\Server\FunctuonsImplementation.h(1149,4): error C2065: 'dwRecvNumBytes': undeclared identifier
