@@ -1,0 +1,3 @@
+I:/Essentials/Projects/C/Prog/Zadanie_4/cmake-build-debug/CMakeFiles/z4.dir
+I:/Essentials/Projects/C/Prog/Zadanie_4/cmake-build-debug/CMakeFiles/edit_cache.dir
+I:/Essentials/Projects/C/Prog/Zadanie_4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

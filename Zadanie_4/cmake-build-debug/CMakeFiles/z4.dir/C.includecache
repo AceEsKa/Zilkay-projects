@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/data.h
+
+../include/rng.h
+
+I:/Essentials/Projects/C/Prog/Zadanie_4/src/main (3).c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+data.h
+I:/Essentials/Projects/C/Prog/Zadanie_4/src/data.h
+rng.h
+I:/Essentials/Projects/C/Prog/Zadanie_4/src/rng.h
+
+I:/Essentials/Projects/C/Prog/Zadanie_4/src/z4.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+data.h
+I:/Essentials/Projects/C/Prog/Zadanie_4/src/data.h
+rng.h
+I:/Essentials/Projects/C/Prog/Zadanie_4/src/rng.h
+
